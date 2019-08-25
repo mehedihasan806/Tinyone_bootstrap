@@ -1,0 +1,244 @@
+    /*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+
+/*header start*/
+.menu ul li a {
+    text-align: right;
+    padding: 3px 0 !important;
+}	
+/*header end*/
+/*slider start*/
+.slider {
+    padding-bottom: 60px;
+}
+.car_ind {
+    bottom: -50px;
+}
+.car_ind li{
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+}
+.inspire {
+    padding: 5px 0;
+    text-align: center;
+}
+.inspire h1 {
+    font-size: 22px;
+}
+.inspire h2 {
+    font-size: 18px;
+}    
+/*slider end*/
+/*features start*/
+.text_features {
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+.text_features h1 {
+    font-size: 28px;
+}
+.text_features p {
+    font-size: 18px;
+    padding: 20px 0px !important;
+}
+.features_1st {
+    margin-bottom: 0px;
+    padding: 0 15px;
+}
+.features_2nd {
+    margin-bottom: 60px;
+    padding: 0 15px;
+}
+.media img {
+    width: 42px;
+    margin-right: 18px;
+}
+.media p {
+    margin-bottom: 40px;
+}
+/*features end*/
+/*contact start*/
+.contact_text h1 {
+    font-size: 24px;
+    padding-top: 60px;
+}    
+.contact_text p {
+    font-size: 16px;
+    padding: 0;
+    margin: 0 0 30px;
+}
+.form-control-custome {
+    width: 270px !important;
+    word-spacing: 0px;
+}
+.social_icon {
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+.social_icon ul li {
+    padding-right: 0px;
+}
+/*contact end*/
+/*footer start*/
+footer{
+    padding-bottom: 60px;
+}
+.footer_ul {
+    text-align: center;
+}
+.footer_ul ul li {
+    font-size: 20px;
+}
+/*fotter end*/
+
+
+}
+
+    /*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+/*header start*/
+.menu ul li a {
+    text-align: right;
+    padding: 3px 0 !important;
+}	
+/*header end*/
+/*slider start*/
+.slider {
+    padding-bottom: 60px;
+}
+.car_ind {
+    bottom: -50px;
+}
+.car_ind li{
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+}
+.inspire {
+    padding: 5px 0;
+    text-align: center;
+}
+.inspire h1 {
+    font-size: 22px;
+}
+.inspire h2 {
+    font-size: 18px;
+}
+/*slider end*/
+/*features start */
+.text_features {
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+.media p {
+    margin-bottom: 40px;
+}
+.features_1st {
+    margin-bottom: 0px;
+}
+.features_2nd {
+    margin-bottom: 70px;
+}
+/*features end*/
+/*contact start*/
+.contact_text h1 {
+    font-size: 26px;
+    padding-top: 60px;
+}    
+.contact_text p {
+    font-size: 18px;
+    padding: 0;
+    margin: 0 10px 30px;
+}
+.form-control-custome {
+    width: 350px !important;
+    word-spacing: 0px;
+}
+.social_icon {
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+.social_icon ul li {
+    padding-right: 0px;
+}
+/*contact end*/
+
+
+}
+
+    /*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+/*header start*/
+.menu ul li a {
+    text-align: right;
+    padding: 5px 0 !important;
+}
+/*header end*/
+/*slider start*/
+.slider {
+    padding-bottom: 20px;
+}
+.car_ind {
+    bottom: 0px;
+}
+/*slider end    */
+/*features start*/
+.text_features {
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+.features_1st {
+    margin-bottom: 50px;
+}    
+.features_2nd {
+    margin-bottom: 75px;
+}
+.media h5 {
+    font-size: 18px;
+    margin-bottom: 12px;
+}
+.media img {
+    width: 35px;
+    margin-right: 22px;
+}
+/*features end*/
+/*contact start*/
+.contact_text h1 {
+    font-size: 26px;
+    padding-top: 60px;
+}    
+.contact_text p {
+    font-size: 18px;
+    padding: 0;
+    margin:0 70px 45px;
+}
+.form-control-custome {
+    width: 350px !important;
+    word-spacing: 0px;
+}
+.social_icon {
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+.social_icon ul li {
+    padding-right: 0px;
+}
+/*contact end*/
+        
+
+}
+
+    /*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+
+}
+
+    /*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {
+
+
+}
